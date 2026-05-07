@@ -1,0 +1,9 @@
+Metric,Singh et al. 2024 (Paper),"A2: Full Fine-tune
+(Kermany, all 86M params)","A3: Partial Fine-tune
+(Kermany, ~14M params, label smooth)","A3: Cross-Domain
+(BloodMNIST, 8-class)"
+Accuracy (%),97.61,91.67,89.90,90.30
+Recall (%),95.00,92.56,94.87,88.82  (macro)
+Specificity (%),98.00,90.17,81.62,N/A
+F1 (%),N/A,93.28,92.15,89.25  (macro)
+AUC-ROC,0.96,0.97,0.9487,0.9917  (OvR)
