@@ -1,0 +1,6 @@
+Metric,Singh et al. (2024),Our Reproduced Result
+Accuracy,97.61%,91.67%
+Recall (Sensitivity),95%,92.56%
+Specificity,98%,90.17%
+F1-Score,N/A,93.28%
+AUC-ROC,0.96,0.97
