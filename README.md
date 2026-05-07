@@ -146,19 +146,6 @@ The methodology generalized effectively across different medical imaging domains
 - Statistical significance testing
 
 
-
-# Technologies Used
-
-- Python
-- PyTorch
-- HuggingFace Transformers
-- NumPy
-- Matplotlib
-- Scikit-learn
-- Google Colab
-
----
-
 # Authors
 
 - Munaza Tariq  
